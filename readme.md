@@ -10,9 +10,13 @@ Examples for integration with [2N® Access Commander](https://www.2n.cz/en_GB/pr
 
 ## Examples
 
-Examples are written with official JS SignalR library and run as *node.js* application.
+Examples are written with official JS SignalR library and run as *node.js* application. Every example is in dedicated directory. 
 
-Every example is in dedicated directory. To run, got there, modify server address and ceredtial at beginig of `index.js` and run:
+If you want to run it: 
+
+- Go to appropriate directory
+- Modify server address and credentials at beginning of `index.js` 
+- Install dependencies and run it:
 
 ```
 npm install
