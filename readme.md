@@ -6,7 +6,7 @@ Examples for integration with [2N® Access Commander](https://www.2n.cz/en_GB/pr
 
 ## Documentation
 
-*TODO*
+*TODO add information where to find manual*
 
 ## Examples
 
@@ -27,7 +27,7 @@ node index.js
 
 Example will subscribe to `uptime` topic, and will print server uptime every second. 
 
-This example will not provide you that useful data, it there to show bare minimum what need to be done if you want to consume data.
+This example will not provide you that useful data, it there to show bare minimum what need to be done if you want to consume messages.
 
 ### Access log example
 
