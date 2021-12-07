@@ -8,7 +8,7 @@ Examples for integration with [2N® Access Commander](https://www.2n.cz/en_GB/pr
 
 SignalR is supported by 2N® Access Commander version 2.2. This documentation regarding use of SignalR for third party integration is not yet publicly available as the API structure may change slightly over the next few versions whilst our support of SignalR continues to take shape.
 
-We expect to have a stable API for SignalR and public integration documentation by the end of 2022. Until then, feel free to join our early adopters so we can inform you of any significant changes. Just drop a message to xxx@2n.com
+We expect to have a stable API for SignalR and public integration documentation by the end of 2022. Until then, feel free to join our early adopters so we can inform you of any significant changes. Just drop a message to accesscommander@2n.com.
 
 ## Examples
 
